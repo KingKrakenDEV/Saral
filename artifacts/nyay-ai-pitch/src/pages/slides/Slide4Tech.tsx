@@ -46,7 +46,7 @@ export default function Slide4Tech() {
         </div>
 
         <div style={{ fontSize: "1.2vw", fontWeight: 800, color: "#0A1628", letterSpacing: "-0.02em" }}>
-          NyayAI
+          Saral
         </div>
       </div>
 
@@ -148,7 +148,7 @@ export default function Slide4Tech() {
         paddingTop: "2vh",
       }}>
         <div style={{ fontFamily: "'DM Mono', monospace", fontSize: "0.9vw", color: "#A0AEC0" }}>
-          Technology / NyayAI
+          Technology / Saral
         </div>
         <div style={{ fontFamily: "'DM Mono', monospace", fontSize: "0.9vw", color: "#0A1628", fontWeight: 600 }}>
           04

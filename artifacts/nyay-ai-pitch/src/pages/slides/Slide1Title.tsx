@@ -30,7 +30,7 @@ export default function Slide1Title() {
             </svg>
           </div>
           <div style={{ fontSize: "1.5vw", fontWeight: 800, color: "#0A1628", letterSpacing: "-0.02em" }}>
-            NyayAI
+            Saral
           </div>
         </div>
 
@@ -43,7 +43,7 @@ export default function Slide1Title() {
           gap: "1vh",
           textAlign: "right",
         }}>
-          <div><span style={{ color: "#A0AEC0", marginRight: "1vw" }}>Project:</span>NyayAI</div>
+          <div><span style={{ color: "#A0AEC0", marginRight: "1vw" }}>Project:</span>Saral</div>
           <div><span style={{ color: "#A0AEC0", marginRight: "1vw" }}>Date:</span>July 2026</div>
           <div><span style={{ color: "#A0AEC0", marginRight: "1vw" }}>Event:</span>Hackathon</div>
           <div><span style={{ color: "#A0AEC0", marginRight: "1vw" }}>Status:</span>Live</div>
@@ -77,7 +77,7 @@ export default function Slide1Title() {
               zIndex: 1,
             }}
           >
-            NyayAI
+            Saral
           </h1>
         </div>
 

@@ -32,7 +32,7 @@ export default function Slide6Closing() {
             </svg>
           </div>
           <div style={{ fontSize: "1.5vw", fontWeight: 800, color: "#FFFFFF", letterSpacing: "-0.02em" }}>
-            NyayAI
+            Saral
           </div>
         </div>
 
@@ -107,7 +107,7 @@ export default function Slide6Closing() {
           fontWeight: 500,
           letterSpacing: "0.02em",
         }}>
-          nyayai.replit.app
+          saral.replit.app
         </div>
       </div>
 
@@ -124,7 +124,7 @@ export default function Slide6Closing() {
         paddingTop: "2vh",
       }}>
         <div style={{ fontFamily: "'DM Mono', monospace", fontSize: "0.9vw", color: "#4A5568" }}>
-          Thank You / NyayAI
+          Thank You / Saral
         </div>
         <div style={{ fontFamily: "'DM Mono', monospace", fontSize: "0.9vw", color: "#FFFFFF", fontWeight: 600 }}>
           06

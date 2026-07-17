@@ -41,12 +41,12 @@ export default function Slide3Features() {
               zIndex: 1,
             }}
           >
-            What NyayAI Does
+            What Saral Does
           </h2>
         </div>
 
         <div style={{ fontSize: "1.2vw", fontWeight: 800, color: "#0A1628", letterSpacing: "-0.02em" }}>
-          NyayAI
+          Saral
         </div>
       </div>
 
@@ -180,7 +180,7 @@ export default function Slide3Features() {
         paddingTop: "2vh",
       }}>
         <div style={{ fontFamily: "'DM Mono', monospace", fontSize: "0.9vw", color: "#A0AEC0" }}>
-          Features / NyayAI
+          Features / Saral
         </div>
         <div style={{ fontFamily: "'DM Mono', monospace", fontSize: "0.9vw", color: "#0A1628", fontWeight: 600 }}>
           03
