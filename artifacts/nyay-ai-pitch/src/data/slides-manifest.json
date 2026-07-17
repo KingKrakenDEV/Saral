@@ -34,14 +34,22 @@
   {
     "id": "a1b2c3d4-0000-0000-0000-000000000005",
     "position": 5,
+    "filepath": "src/pages/slides/Slide5Language.tsx",
+    "title": "Breaking the Language Barrier",
+    "description": "Language accessibility — statistics on English literacy in India, roadmap to 6+ Indian languages",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0000-0000-0000-000000000006",
+    "position": 6,
     "filepath": "src/pages/slides/Slide5Impact.tsx",
     "title": "The Impact",
     "description": "Real-world impact stories — RTI, tenants, consumers",
     "speakerNotes": ""
   },
   {
-    "id": "a1b2c3d4-0000-0000-0000-000000000006",
-    "position": 6,
+    "id": "a1b2c3d4-0000-0000-0000-000000000007",
+    "position": 7,
     "filepath": "src/pages/slides/Slide6Closing.tsx",
     "title": "Let's Make Justice Accessible",
     "description": "Closing slide — live and working today",
