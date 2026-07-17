@@ -1,8 +1,0 @@
-uploads = []
-generated = []
-
-[[outputs]]
-id = "JJzOgDz2_FPQIYcdhTos8"
-uri = "file://.local/outputs/Legal-Ease-AI.pptx"
-type = "slides"
-title = "Legal Ease AI.pptx"
