@@ -1,0 +1,50 @@
+[
+  {
+    "id": "a1b2c3d4-0000-0000-0000-000000000001",
+    "position": 1,
+    "filepath": "src/pages/slides/Slide1Title.tsx",
+    "title": "NyayAI",
+    "description": "Title slide — AI-powered legal assistance for every Indian citizen",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0000-0000-0000-000000000002",
+    "position": 2,
+    "filepath": "src/pages/slides/Slide2Problem.tsx",
+    "title": "The Problem",
+    "description": "The legal access gap in India — shortage, language, cost",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0000-0000-0000-000000000003",
+    "position": 3,
+    "filepath": "src/pages/slides/Slide3Features.tsx",
+    "title": "What NyayAI Does",
+    "description": "Four core features: Legal Chat, Document Explainer, Document Creator, Document Library",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0000-0000-0000-000000000004",
+    "position": 4,
+    "filepath": "src/pages/slides/Slide4Tech.tsx",
+    "title": "Powered by Indian Law",
+    "description": "Legal coverage, languages supported, and tech stack",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0000-0000-0000-000000000005",
+    "position": 5,
+    "filepath": "src/pages/slides/Slide5Impact.tsx",
+    "title": "The Impact",
+    "description": "Real-world impact stories — RTI, tenants, consumers",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0000-0000-0000-000000000006",
+    "position": 6,
+    "filepath": "src/pages/slides/Slide6Closing.tsx",
+    "title": "Let's Make Justice Accessible",
+    "description": "Closing slide — live and working today",
+    "speakerNotes": ""
+  }
+]

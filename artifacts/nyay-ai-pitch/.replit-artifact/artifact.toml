@@ -1,0 +1,27 @@
+kind = "slides"
+previewPath = "/nyay-ai-pitch/"
+title = "NyayAI Pitch Deck"
+version = "1.0.0"
+id = "artifacts/nyay-ai-pitch"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/nyay-ai-pitch/" ]
+localPort = 23806
+
+[services.development]
+run = "pnpm --filter @workspace/nyay-ai-pitch run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/nyay-ai-pitch", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/nyay-ai-pitch/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "23806"
+BASE_PATH = "/nyay-ai-pitch/"
