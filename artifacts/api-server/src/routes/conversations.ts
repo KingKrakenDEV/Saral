@@ -15,6 +15,7 @@ const router: IRouter = Router();
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
+  baseURL: "https://api.groq.com/openai/v1",
 });
 
 const INDIAN_LAW_SYSTEM_PROMPT = `You are NyayAI, an expert Indian legal assistant. You have deep knowledge of:
@@ -184,8 +185,8 @@ router.post("/conversations/:id/messages", async (req, res): Promise<void> => {
   let fullResponse = "";
 
   const stream = await openai.chat.completions.create({
-    model: "gpt-4o-mini",
-    max_completion_tokens: 2048,
+    model: "llama-3.3-70b-versatile",
+    max_tokens: 2048,
     messages: chatMessages,
     stream: true,
   });

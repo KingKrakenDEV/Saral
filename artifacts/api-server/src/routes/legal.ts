@@ -13,6 +13,7 @@ const router: IRouter = Router();
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
+  baseURL: "https://api.groq.com/openai/v1",
 });
 
 const DOCUMENT_TYPES = [
@@ -141,8 +142,8 @@ When explaining a document:
   res.setHeader("Connection", "keep-alive");
 
   const stream = await openai.chat.completions.create({
-    model: "gpt-4o-mini",
-    max_completion_tokens: 2048,
+    model: "llama-3.3-70b-versatile",
+    max_tokens: 2048,
     messages: [
       { role: "system", content: systemPrompt },
       { role: "user", content: `Please explain this legal document:\n\n${parsed.data.text}` },
@@ -209,8 +210,8 @@ Generate ONLY the document text — no explanations or commentary before or afte
   let fullContent = "";
 
   const stream = await openai.chat.completions.create({
-    model: "gpt-4o-mini",
-    max_completion_tokens: 3000,
+    model: "llama-3.3-70b-versatile",
+    max_tokens: 3000,
     messages: [
       { role: "system", content: systemPrompt },
       {
