@@ -5,7 +5,7 @@ export default function Slide6Closing() {
         width: "100vw",
         height: "100vh",
         overflow: "hidden",
-        backgroundColor: "#0A1628",
+        backgroundColor: "#111111",
         fontFamily: "'Inter', sans-serif",
         position: "relative",
         boxSizing: "border-box",
@@ -20,7 +20,7 @@ export default function Slide6Closing() {
           <div style={{
             width: "2.8vw",
             height: "2.8vw",
-            backgroundColor: "#C8530A",
+            backgroundColor: "#8B0000",
             borderRadius: "0.4vw",
             display: "flex",
             alignItems: "center",
@@ -67,7 +67,7 @@ export default function Slide6Closing() {
               transform: "translate(-50%, -50%)",
               width: "45vw",
               height: "12vh",
-              backgroundColor: "#C8530A",
+              backgroundColor: "#8B0000",
               opacity: 0.1,
               zIndex: 0,
             }}
@@ -103,7 +103,7 @@ export default function Slide6Closing() {
         <div style={{
           fontFamily: "'DM Mono', monospace",
           fontSize: "1.4vw",
-          color: "#C8530A",
+          color: "#8B0000",
           fontWeight: 500,
           letterSpacing: "0.02em",
         }}>

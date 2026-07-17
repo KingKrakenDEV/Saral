@@ -1,8 +1,8 @@
 import React from "react";
 
-const NAVY = "#0A1628";
-const SAFFRON = "#C8530A";
-const LIGHT_SAFFRON = "#F4E8E0";
+const NAVY = "#111111";
+const SAFFRON = "#8B0000";
+const LIGHT_SAFFRON = "#F5E0E0";
 
 const stats = [
   { value: "10%", label: "of Indians speak English", sub: "Only ~130M out of 1.4 billion" },
@@ -26,7 +26,7 @@ export default function Slide5Language() {
       style={{
         width: "100%",
         height: "100%",
-        background: "#F7F5F2",
+        background: "#FAF5F5",
         display: "flex",
         flexDirection: "column",
         fontFamily: "'Inter', sans-serif",

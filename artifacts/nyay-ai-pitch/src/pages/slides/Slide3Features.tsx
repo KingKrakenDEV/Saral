@@ -5,7 +5,7 @@ export default function Slide3Features() {
         width: "100vw",
         height: "100vh",
         overflow: "hidden",
-        backgroundColor: "#F9F9F8",
+        backgroundColor: "#FAF5F5",
         fontFamily: "'Inter', sans-serif",
         position: "relative",
         boxSizing: "border-box",
@@ -24,7 +24,7 @@ export default function Slide3Features() {
               top: "1.5vh",
               width: "22vw",
               height: "3.5vh",
-              backgroundColor: "#C8530A",
+              backgroundColor: "#8B0000",
               opacity: 0.12,
               zIndex: 0,
             }}
@@ -33,7 +33,7 @@ export default function Slide3Features() {
             style={{
               fontSize: "3.5vw",
               fontWeight: 900,
-              color: "#0A1628",
+              color: "#111111",
               margin: 0,
               lineHeight: 1,
               letterSpacing: "-0.03em",
@@ -45,7 +45,7 @@ export default function Slide3Features() {
           </h2>
         </div>
 
-        <div style={{ fontSize: "1.2vw", fontWeight: 800, color: "#0A1628", letterSpacing: "-0.02em" }}>
+        <div style={{ fontSize: "1.2vw", fontWeight: 800, color: "#111111", letterSpacing: "-0.02em" }}>
           Saral
         </div>
       </div>
@@ -70,10 +70,10 @@ export default function Slide3Features() {
               left: 0,
               width: "3px",
               height: "100%",
-              backgroundColor: "#C8530A",
+              backgroundColor: "#8B0000",
             }} />
-            <div style={{ fontFamily: "'DM Mono', monospace", fontSize: "1vw", color: "#C8530A", fontWeight: 500, marginBottom: "1.5vh" }}>01</div>
-            <h3 style={{ fontSize: "1.5vw", fontWeight: 800, color: "#0A1628", margin: "0 0 1.5vh 0", letterSpacing: "-0.02em" }}>
+            <div style={{ fontFamily: "'DM Mono', monospace", fontSize: "1vw", color: "#8B0000", fontWeight: 500, marginBottom: "1.5vh" }}>01</div>
+            <h3 style={{ fontSize: "1.5vw", fontWeight: 800, color: "#111111", margin: "0 0 1.5vh 0", letterSpacing: "-0.02em" }}>
               Legal Chat
             </h3>
             <p style={{ fontSize: "1.1vw", color: "#4A5568", lineHeight: 1.55, margin: 0 }}>
@@ -97,10 +97,10 @@ export default function Slide3Features() {
               left: 0,
               width: "3px",
               height: "100%",
-              backgroundColor: "#C8530A",
+              backgroundColor: "#8B0000",
             }} />
-            <div style={{ fontFamily: "'DM Mono', monospace", fontSize: "1vw", color: "#C8530A", fontWeight: 500, marginBottom: "1.5vh" }}>02</div>
-            <h3 style={{ fontSize: "1.5vw", fontWeight: 800, color: "#0A1628", margin: "0 0 1.5vh 0", letterSpacing: "-0.02em" }}>
+            <div style={{ fontFamily: "'DM Mono', monospace", fontSize: "1vw", color: "#8B0000", fontWeight: 500, marginBottom: "1.5vh" }}>02</div>
+            <h3 style={{ fontSize: "1.5vw", fontWeight: 800, color: "#111111", margin: "0 0 1.5vh 0", letterSpacing: "-0.02em" }}>
               Document Explainer
             </h3>
             <p style={{ fontSize: "1.1vw", color: "#4A5568", lineHeight: 1.55, margin: 0 }}>
@@ -127,10 +127,10 @@ export default function Slide3Features() {
               left: 0,
               width: "3px",
               height: "100%",
-              backgroundColor: "#C8530A",
+              backgroundColor: "#8B0000",
             }} />
-            <div style={{ fontFamily: "'DM Mono', monospace", fontSize: "1vw", color: "#C8530A", fontWeight: 500, marginBottom: "1.5vh" }}>03</div>
-            <h3 style={{ fontSize: "1.5vw", fontWeight: 800, color: "#0A1628", margin: "0 0 1.5vh 0", letterSpacing: "-0.02em" }}>
+            <div style={{ fontFamily: "'DM Mono', monospace", fontSize: "1vw", color: "#8B0000", fontWeight: 500, marginBottom: "1.5vh" }}>03</div>
+            <h3 style={{ fontSize: "1.5vw", fontWeight: 800, color: "#111111", margin: "0 0 1.5vh 0", letterSpacing: "-0.02em" }}>
               Document Creator
             </h3>
             <p style={{ fontSize: "1.1vw", color: "#4A5568", lineHeight: 1.55, margin: 0 }}>
@@ -154,10 +154,10 @@ export default function Slide3Features() {
               left: 0,
               width: "3px",
               height: "100%",
-              backgroundColor: "#C8530A",
+              backgroundColor: "#8B0000",
             }} />
-            <div style={{ fontFamily: "'DM Mono', monospace", fontSize: "1vw", color: "#C8530A", fontWeight: 500, marginBottom: "1.5vh" }}>04</div>
-            <h3 style={{ fontSize: "1.5vw", fontWeight: 800, color: "#0A1628", margin: "0 0 1.5vh 0", letterSpacing: "-0.02em" }}>
+            <div style={{ fontFamily: "'DM Mono', monospace", fontSize: "1vw", color: "#8B0000", fontWeight: 500, marginBottom: "1.5vh" }}>04</div>
+            <h3 style={{ fontSize: "1.5vw", fontWeight: 800, color: "#111111", margin: "0 0 1.5vh 0", letterSpacing: "-0.02em" }}>
               Document Library
             </h3>
             <p style={{ fontSize: "1.1vw", color: "#4A5568", lineHeight: 1.55, margin: 0 }}>
@@ -182,7 +182,7 @@ export default function Slide3Features() {
         <div style={{ fontFamily: "'DM Mono', monospace", fontSize: "0.9vw", color: "#A0AEC0" }}>
           Features / Saral
         </div>
-        <div style={{ fontFamily: "'DM Mono', monospace", fontSize: "0.9vw", color: "#0A1628", fontWeight: 600 }}>
+        <div style={{ fontFamily: "'DM Mono', monospace", fontSize: "0.9vw", color: "#111111", fontWeight: 600 }}>
           03
         </div>
       </div>

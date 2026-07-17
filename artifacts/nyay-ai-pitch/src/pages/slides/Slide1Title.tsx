@@ -5,7 +5,7 @@ export default function Slide1Title() {
         width: "100vw",
         height: "100vh",
         overflow: "hidden",
-        backgroundColor: "#F9F9F8",
+        backgroundColor: "#FAF5F5",
         fontFamily: "'Inter', sans-serif",
         position: "relative",
         boxSizing: "border-box",
@@ -18,7 +18,7 @@ export default function Slide1Title() {
           <div style={{
             width: "2.8vw",
             height: "2.8vw",
-            backgroundColor: "#C8530A",
+            backgroundColor: "#8B0000",
             borderRadius: "0.4vw",
             display: "flex",
             alignItems: "center",
@@ -29,7 +29,7 @@ export default function Slide1Title() {
               <path d="M6 11L12 7L18 11" stroke="white" strokeWidth="1.5" strokeLinecap="round" />
             </svg>
           </div>
-          <div style={{ fontSize: "1.5vw", fontWeight: 800, color: "#0A1628", letterSpacing: "-0.02em" }}>
+          <div style={{ fontSize: "1.5vw", fontWeight: 800, color: "#111111", letterSpacing: "-0.02em" }}>
             Saral
           </div>
         </div>
@@ -60,7 +60,7 @@ export default function Slide1Title() {
               top: "2vh",
               width: "30vw",
               height: "6vh",
-              backgroundColor: "#C8530A",
+              backgroundColor: "#8B0000",
               opacity: 0.12,
               zIndex: 0,
             }}
@@ -69,7 +69,7 @@ export default function Slide1Title() {
             style={{
               fontSize: "8vw",
               fontWeight: 900,
-              color: "#0A1628",
+              color: "#111111",
               margin: 0,
               lineHeight: 1,
               letterSpacing: "-0.04em",

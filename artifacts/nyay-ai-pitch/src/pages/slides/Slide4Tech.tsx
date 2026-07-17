@@ -5,7 +5,7 @@ export default function Slide4Tech() {
         width: "100vw",
         height: "100vh",
         overflow: "hidden",
-        backgroundColor: "#F9F9F8",
+        backgroundColor: "#FAF5F5",
         fontFamily: "'Inter', sans-serif",
         position: "relative",
         boxSizing: "border-box",
@@ -24,7 +24,7 @@ export default function Slide4Tech() {
               top: "1.5vh",
               width: "24vw",
               height: "3.5vh",
-              backgroundColor: "#C8530A",
+              backgroundColor: "#8B0000",
               opacity: 0.12,
               zIndex: 0,
             }}
@@ -33,7 +33,7 @@ export default function Slide4Tech() {
             style={{
               fontSize: "3.5vw",
               fontWeight: 900,
-              color: "#0A1628",
+              color: "#111111",
               margin: 0,
               lineHeight: 1,
               letterSpacing: "-0.03em",
@@ -45,7 +45,7 @@ export default function Slide4Tech() {
           </h2>
         </div>
 
-        <div style={{ fontSize: "1.2vw", fontWeight: 800, color: "#0A1628", letterSpacing: "-0.02em" }}>
+        <div style={{ fontSize: "1.2vw", fontWeight: 800, color: "#111111", letterSpacing: "-0.02em" }}>
           Saral
         </div>
       </div>
@@ -60,20 +60,20 @@ export default function Slide4Tech() {
             </div>
             <div style={{ display: "flex", flexDirection: "column", gap: "2vh" }}>
               <div style={{ display: "flex", alignItems: "center", gap: "1.5vw", paddingBottom: "2vh", borderBottom: "1px solid #E2E8F0" }}>
-                <div style={{ fontFamily: "'DM Mono', monospace", fontSize: "0.9vw", color: "#C8530A", minWidth: "1.5vw" }}>—</div>
-                <div style={{ fontSize: "1.1vw", color: "#0A1628", fontWeight: 600 }}>Constitution of India</div>
+                <div style={{ fontFamily: "'DM Mono', monospace", fontSize: "0.9vw", color: "#8B0000", minWidth: "1.5vw" }}>—</div>
+                <div style={{ fontSize: "1.1vw", color: "#111111", fontWeight: 600 }}>Constitution of India</div>
               </div>
               <div style={{ display: "flex", alignItems: "center", gap: "1.5vw", paddingBottom: "2vh", borderBottom: "1px solid #E2E8F0" }}>
-                <div style={{ fontFamily: "'DM Mono', monospace", fontSize: "0.9vw", color: "#C8530A", minWidth: "1.5vw" }}>—</div>
-                <div style={{ fontSize: "1.1vw", color: "#0A1628", fontWeight: 600 }}>IPC / BNS &amp; CrPC / BNSS</div>
+                <div style={{ fontFamily: "'DM Mono', monospace", fontSize: "0.9vw", color: "#8B0000", minWidth: "1.5vw" }}>—</div>
+                <div style={{ fontSize: "1.1vw", color: "#111111", fontWeight: 600 }}>IPC / BNS &amp; CrPC / BNSS</div>
               </div>
               <div style={{ display: "flex", alignItems: "center", gap: "1.5vw", paddingBottom: "2vh", borderBottom: "1px solid #E2E8F0" }}>
-                <div style={{ fontFamily: "'DM Mono', monospace", fontSize: "0.9vw", color: "#C8530A", minWidth: "1.5vw" }}>—</div>
-                <div style={{ fontSize: "1.1vw", color: "#0A1628", fontWeight: 600 }}>RTI Act &amp; Consumer Protection Act</div>
+                <div style={{ fontFamily: "'DM Mono', monospace", fontSize: "0.9vw", color: "#8B0000", minWidth: "1.5vw" }}>—</div>
+                <div style={{ fontSize: "1.1vw", color: "#111111", fontWeight: 600 }}>RTI Act &amp; Consumer Protection Act</div>
               </div>
               <div style={{ display: "flex", alignItems: "center", gap: "1.5vw", paddingBottom: "2vh", borderBottom: "1px solid #E2E8F0" }}>
-                <div style={{ fontFamily: "'DM Mono', monospace", fontSize: "0.9vw", color: "#C8530A", minWidth: "1.5vw" }}>—</div>
-                <div style={{ fontSize: "1.1vw", color: "#0A1628", fontWeight: 600 }}>Family, Labour &amp; Property Law</div>
+                <div style={{ fontFamily: "'DM Mono', monospace", fontSize: "0.9vw", color: "#8B0000", minWidth: "1.5vw" }}>—</div>
+                <div style={{ fontSize: "1.1vw", color: "#111111", fontWeight: 600 }}>Family, Labour &amp; Property Law</div>
               </div>
             </div>
           </div>
@@ -96,7 +96,7 @@ export default function Slide4Tech() {
         {/* Right: tech stack callout */}
         <div style={{
           width: "30vw",
-          backgroundColor: "#0A1628",
+          backgroundColor: "#111111",
           padding: "4vh 3vw",
           display: "flex",
           flexDirection: "column",
@@ -150,7 +150,7 @@ export default function Slide4Tech() {
         <div style={{ fontFamily: "'DM Mono', monospace", fontSize: "0.9vw", color: "#A0AEC0" }}>
           Technology / Saral
         </div>
-        <div style={{ fontFamily: "'DM Mono', monospace", fontSize: "0.9vw", color: "#0A1628", fontWeight: 600 }}>
+        <div style={{ fontFamily: "'DM Mono', monospace", fontSize: "0.9vw", color: "#111111", fontWeight: 600 }}>
           04
         </div>
       </div>
