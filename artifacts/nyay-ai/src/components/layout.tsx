@@ -20,7 +20,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
           <div className="flex h-8 w-8 items-center justify-center rounded-md bg-primary text-primary-foreground">
             <Scale className="h-5 w-5" />
           </div>
-          <span className="font-serif text-xl font-bold tracking-tight text-sidebar-foreground">NyayAI</span>
+          <span className="font-serif text-xl font-bold tracking-tight text-sidebar-foreground">Saral</span>
         </div>
         <nav className="flex-1 space-y-1 p-4">
           {navigation.map((item) => {
@@ -58,7 +58,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
           <div className="flex h-8 w-8 items-center justify-center rounded-md bg-primary text-primary-foreground">
             <Scale className="h-5 w-5" />
           </div>
-          <span className="font-serif text-lg font-bold">NyayAI</span>
+          <span className="font-serif text-lg font-bold">Saral</span>
         </header>
 
         <div className="mx-auto max-w-6xl p-4 md:p-8">

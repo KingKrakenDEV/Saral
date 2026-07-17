@@ -284,7 +284,7 @@ export default function Chat() {
           <div className="text-center mt-3">
             <p className="text-[11px] text-muted-foreground flex items-center justify-center gap-1">
               <AlertCircle className="h-3 w-3" />
-              NyayAI provides legal information, not formal legal advice.
+              Saral provides legal information, not formal legal advice.
             </p>
           </div>
         </div>
