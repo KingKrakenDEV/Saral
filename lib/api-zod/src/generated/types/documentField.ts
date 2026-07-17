@@ -6,6 +6,10 @@
  * OpenAPI spec version: 0.1.0
  */
 
-export interface HealthStatus {
-  status: string;
+export interface DocumentField {
+  name: string;
+  label: string;
+  type: string;
+  required: boolean;
+  placeholder?: string;
 }
