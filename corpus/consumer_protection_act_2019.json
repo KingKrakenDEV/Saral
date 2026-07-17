@@ -1,0 +1,27 @@
+{
+  "act_name": "Consumer Protection Act, 2019",
+  "act_short": "Consumer Protection Act",
+  "_note": "PARAPHRASED for prototyping only. Replace with verbatim official text from indiacode.nic.in before real use.",
+  "sections": [
+    {
+      "section_number": "2(9)",
+      "title": "Definition of consumer rights",
+      "text": "Consumer rights include the right to be protected against marketing of goods and services that are hazardous, the right to be informed about quality and price, the right to be assured access to a variety of goods at competitive prices, the right to be heard, the right to seek redressal, and the right to consumer education."
+    },
+    {
+      "section_number": "35",
+      "title": "Manner of filing complaint before District Commission",
+      "text": "A complaint can be filed by the affected consumer, a recognized consumer association, or the central/state government, before the District Consumer Disputes Redressal Commission. Complaints can relate to defective goods, deficient services, unfair or restrictive trade practices, or overcharging."
+    },
+    {
+      "section_number": "39",
+      "title": "Reliefs available",
+      "text": "The Commission can order removal of defects, replacement of goods, refund of the price paid, payment of compensation for loss or injury, discontinuation of unfair practices, and payment of costs, among other reliefs."
+    },
+    {
+      "section_number": "69",
+      "title": "Limitation period",
+      "text": "A complaint must generally be filed within two years from the date the cause of action arose, though the Commission may allow a delayed complaint if there is sufficient cause."
+    }
+  ]
+}

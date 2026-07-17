@@ -1,0 +1,27 @@
+{
+  "act_name": "Right to Information Act, 2005",
+  "act_short": "RTI Act",
+  "_note": "IMPORTANT: The 'text' fields below are paraphrased summaries for prototyping ONLY. Before any real use, replace with verbatim text copied from the official source (https://indiacode.nic.in) for each section. Do not ship paraphrases as if they were statutory text.",
+  "sections": [
+    {
+      "section_number": "6",
+      "title": "Request for obtaining information",
+      "text": "A citizen who wants information must submit a written or electronic request to the Public Information Officer, along with the prescribed fee. The applicant is not required to give any reason for the request."
+    },
+    {
+      "section_number": "7",
+      "title": "Disposal of request",
+      "text": "The Public Information Officer must respond within 30 days of receiving the request. If the information concerns the life or liberty of a person, the response must be given within 48 hours. If the request is rejected, reasons must be given in writing, along with details of the appeal process."
+    },
+    {
+      "section_number": "8",
+      "title": "Exemption from disclosure of information",
+      "text": "Certain categories of information are exempt from disclosure, including information affecting national security, information that would breach parliamentary privilege, commercial confidence or trade secrets, and information held in a fiduciary relationship, among other listed exemptions."
+    },
+    {
+      "section_number": "19",
+      "title": "Appeal",
+      "text": "If a request is refused or not answered in time, the applicant may file a first appeal with a designated senior officer within the same public authority within 30 days. If still unsatisfied, a second appeal may be filed with the State or Central Information Commission."
+    }
+  ]
+}
